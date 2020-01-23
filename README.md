@@ -1,17 +1,17 @@
-# Name of Community Hub
-Describe your community hub or project here.
+# Lumenauts
+An unofficial Stellar guide—-a resource for educational tools and community collaboration.
 
 ## Content Standard
-Our community uses the [Commona content repo standard](https://github.com/commona-org/) to collaborate on content. Anyone can add to the docs, submit their blog post, add their project to the directory, or add a new content model by submitting a PR. When a maintainer merges a PR, the frontend is rebuilt with the newly added content.
+Our community uses the [Commona content repo standard](https://github.com/commona-org/) to collaborate on content. Anyone can add to the guides, submit their blog post, add their project to the directory, or add a new content model by submitting a PR. When a maintainer merges a PR, the frontend is rebuilt with the newly added content.
 
 ## Guidelines
 There are some basic guidelines that need to be followed when contributing:
 - All pages should have links to supporting sources/documentation and additional resources
 - No marketing or sponsored content
 - No inappropriate content
-- And/or any other guidelines necessary for your community
+- No ICOs
 
-## Contributing to a Commona
+## Contributing to the Lumenauts Commona
 ### Markdown
 All content is formatted as Markdown. Use this [cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) to understand GitHub-flavored markdown. Each content file should end with `.md`.
 

@@ -1,13 +1,13 @@
 ## METADATA
-- title: Name of Community Hub
-- tagline: Tagline of Community Hub
-- description: Brief, one sentence description of the community hub.
-- favicon: ./assets/placeholder-favicon.ico
-- logo: ./assets/placeholder-logo.png
-- share-image: ./assets/placeholder-share-image.png
+- title: Lumenauts
+- tagline: Unofficial community hub
+- description: A resource for educational tools and community collaboration.
+- favicon: ./assets/favicon.png
+- logo: ./assets/logo.svg
+- share-image: ./assets/share-image.jpg
 
 ## SETTINGS
-- color: #7540ee
+- color: #5981f9
 - google-analytics-id: none
 
 ## NEWSLETTER
@@ -16,17 +16,19 @@
 
 ## MENUS
 primary:
-- [Documentation](./documentation)
+- [Start](./start.md)
+- [Course](./course)
 - [Directory](./directory)
 - [Blog](./blog)
-- [Off-Site Link](https://www.commona.com/)
+- [Guides](./guides)
 
 footer:
 - Resources
   - [About](./about.md)
-  - [Documentation](./Documentation)
-  - [Directory](./Directory)
-  - [Off-Site Link](https://www.commona.com/)
+  - [Course](./course)
+  - [Directory](./directory)
+  - [Blog](./blog)
+  - [Guides](./guides)
 - Community
-  - [Twitter](https://twitter.com/commona_)
-  - [GitHub](https://github.com/commona-org)
+  - [Twitter](https://twitter.com/lumenauts)
+  - [GitHub](https://github.com/lumenauts)
