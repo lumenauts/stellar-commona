@@ -1,18 +1,20 @@
 ---
-title: About This Community Hub
-description: This community hub provides a single, comprehensive source for essential information about this topic.
+title: About Lumenauts
+description: Unofficial Stellar community hub--a resource for educational tools and community collaboration.
 ---
 
-This community hub provides a single, comprehensive resource for consuming and creating essential information about this topic. It's composed of three main sections:
-- [Documentation](./documentation) - A deep dive into the topic with explainers, tutorials, and educational information
-- [Directory](./directory) - A collection of interesting projects in our community
-- [Blog](./blog) - A community publication for quality writing about this topic
+Lumenauts is an unofficial Stellar community hub - a comprehensive resource for consuming and creating essential information about Stellar. It's composed of four main sections:
+- [Course](./course) - A series of animated videos that explain core Stellar concepts.
+- [Directory](./directory) - A collection of community projects building on Stellar.
+- [Blog](./blog) - A community publication for quality writing about Stellar.
+- [Guides](./guides) - Tutorials and explainers to help you get started.
 
 ## Contributing
-Together, our community gathers and maintains the best information about this topic using the [Commona](https://www.commona.com/) content repository standard. Anyone can edit the documentation, add their project to the directory, submit their blog post, or add a new content model by submitting an edit (PR) to our GitHub repository.
+Together, our community gathers and maintains the best information about Stellar using the [Commona](https://www.commona.com/) content repository standard. Anyone can edit the guides, add their project to the directory, submit their blog post, or add a new content model by submitting an edit (PR) to our [GitHub repository](https://github.com/lumenauts/commona).
 
 ## Guidelines
 There are some basic guidelines that need to be followed when contributing:
 - All documentation pages should have links to supporting sources/documentation and additional resources
 - No marketing or sponsored content
 - No inappropriate content
+- No ICOs
